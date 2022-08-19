@@ -16,8 +16,3 @@ java -cp HackerRMIRefServer-all.jar HackerLDAPRefServer  0.0.0.0 8088 1389
 ```
 
 
-
-## Welcome Subscribe
-
-![Wechat](https://kingx.me/images/secengine.jpg)
-# JavaSer-LDAP-RMI
